@@ -1,6 +1,8 @@
-# Composer template for Drupal projects
+# Composer template for Meredith Drupal projects
 
 [![Build Status](https://travis-ci.org/drupal-composer/drupal-project.svg?branch=8.x)](https://travis-ci.org/drupal-composer/drupal-project)
+
+This is a custom fork of https://github.com/drupal-composer/drupal-project
 
 This project template should provide a kickstart for managing your site
 dependencies with [Composer](https://getcomposer.org/).
